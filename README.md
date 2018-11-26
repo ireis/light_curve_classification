@@ -1,1 +1,1 @@
-# light_curve_classification
+# CRTS light curves 
